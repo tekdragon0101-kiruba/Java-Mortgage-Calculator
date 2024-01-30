@@ -1,2 +1,1 @@
-# Java
-Learn Java
+# Java Mortgage Calculator
